@@ -1,0 +1,90 @@
+{
+  "results": [
+    {
+      "name": "Viewport 1920",
+      "passed": true,
+      "detail": "Next-section hint visible; no overflow, heading truncation, missing images or browser errors; local font loaded"
+    },
+    {
+      "name": "Dialog",
+      "passed": true,
+      "detail": "Guide opens, focus stays inside, Escape closes and focus returns"
+    },
+    {
+      "name": "Favorites",
+      "passed": true,
+      "detail": "Collection saved locally, survives reload and opens artwork detail"
+    },
+    {
+      "name": "Scenes",
+      "passed": true,
+      "detail": "Next, previous, direct selection and scene-specific detail work"
+    },
+    {
+      "name": "Chart",
+      "passed": true,
+      "detail": "Keyboard focus highlights correct month and 246 person-visits"
+    },
+    {
+      "name": "Classical ledger",
+      "passed": true,
+      "detail": "Cover closes/reopens; page turning shows six correct monthly records and returns to chart"
+    },
+    {
+      "name": "Handscroll and art book",
+      "passed": true,
+      "detail": "Volume selection, roll closed/open, inert closed content, correct two-page artwork detail"
+    },
+    {
+      "name": "Feedback",
+      "passed": true,
+      "detail": "Empty input is rejected; valid input is saved locally with honest status"
+    },
+    {
+      "name": "Motion preference",
+      "passed": true,
+      "detail": "Manual pause/resume works; water canvas contains 9850 painted pixels"
+    },
+    {
+      "name": "Chinese numerals and seal",
+      "passed": true,
+      "detail": "Visible page/dialog numbers are Chinese; animated counters retain correct values; four seal glyphs form a square two-by-two grid"
+    },
+    {
+      "name": "Viewport 1440",
+      "passed": true,
+      "detail": "Next-section hint visible; no overflow, heading truncation, missing images or browser errors; local font loaded"
+    },
+    {
+      "name": "Viewport 1366",
+      "passed": true,
+      "detail": "Next-section hint visible; no overflow, heading truncation, missing images or browser errors; local font loaded"
+    },
+    {
+      "name": "Viewport 768",
+      "passed": true,
+      "detail": "Next-section hint visible; no overflow, heading truncation, missing images or browser errors; local font loaded"
+    },
+    {
+      "name": "Mobile menu and swipe",
+      "passed": true,
+      "detail": "Menu opens/closes, traps focus, responds to Escape and anchors; scene swipe works"
+    },
+    {
+      "name": "Viewport 390",
+      "passed": true,
+      "detail": "Next-section hint visible; no overflow, heading truncation, missing images or browser errors; local font loaded"
+    },
+    {
+      "name": "Reduced motion",
+      "passed": true,
+      "detail": "No mist/parallax/scroll mask, text and accurate numbers immediately visible; interactions work"
+    },
+    {
+      "name": "Animation failure fallback",
+      "passed": true,
+      "detail": "Injected initialization exception; headline and guide remain visible and usable"
+    }
+  ],
+  "failures": []
+}

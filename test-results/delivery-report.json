@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "encoding": "br",
+      "original": 21817868,
+      "transferred": 11742430,
+      "savedPercent": 46.18,
+      "roundTripUnmodified": true,
+      "cache304": true,
+      "head": true
+    },
+    {
+      "encoding": "gzip",
+      "original": 21817868,
+      "transferred": 12062934,
+      "savedPercent": 44.71,
+      "roundTripUnmodified": true,
+      "cache304": true,
+      "head": true
+    }
+  ],
+  "identity": true,
+  "missingAssetNotCached": true
+}

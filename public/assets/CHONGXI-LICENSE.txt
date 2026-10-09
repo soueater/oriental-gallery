@@ -1,0 +1,10 @@
+Chongxi Seal / Chongxi Zhuanti (崇羲篆體)
+Original, unmodified font: chongxi_seal.otf, version 1.00.
+Calligraphy: Wang Hsin-Yi (王心怡).
+Project contributors: Hsieh Ching-Chun (謝清俊), Chuang Te-Ming (莊德明), Chi Hsu-Sheng (季旭昇).
+Source: https://xiaoxue.iis.sinica.edu.tw/chongxi/download.htm
+Attribution and terms: https://xiaoxue.iis.sinica.edu.tw/chongxi/copyright.htm
+License: CC-BY-ND-3.0-TW-or-later.
+https://creativecommons.org/licenses/by-nd/3.0/tw/
+The original font may be reproduced, distributed and transmitted, including commercially, with attribution. The font may not be modified.
+This project does not subset, remap, convert or alter the font. Traditional Chinese conversion applies only to webpage copy.

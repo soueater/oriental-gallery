@@ -1,0 +1,8 @@
+node_modules/
+dist/
+test-results/**
+!test-results/**/
+!test-results/**/*.png
+!test-results/**/*.json
+*.log
+*.tsbuildinfo

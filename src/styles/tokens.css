@@ -1,0 +1,27 @@
+:root {
+  --paper: #F3EFE6;
+  --silk: #E6DDCC;
+  --ink: #272B28;
+  --mountain: #8B938B;
+  --pine: #496D64;
+  --ochre: #9B7255;
+  --cinnabar: #A54436;
+  --gold: #AD9568;
+  --muted: #59615B;
+  --line: #C8C9BD;
+  --seal: 'Chongxi Seal', 'Noto Serif SC', serif;
+  --serif: var(--seal);
+  --sans: var(--seal);
+  --page-width: 1280px;
+  --page-gutter: 64px;
+  --interaction: 220ms;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 0;
+}
+@media (max-width: 1000px) { :root { --page-gutter: 32px; } }
+@media (max-width: 600px) { :root { --page-gutter: 24px; } }

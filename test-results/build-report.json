@@ -1,0 +1,44 @@
+[
+  {
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "passed": true,
+    "interactions": [
+      "guide",
+      "artwork book",
+      "ledger pages",
+      "cover focus return"
+    ],
+    "font": "Chongxi Seal"
+  },
+  {
+    "viewport": {
+      "width": 1366,
+      "height": 768
+    },
+    "passed": true,
+    "interactions": [
+      "guide",
+      "artwork book",
+      "ledger pages",
+      "cover focus return"
+    ],
+    "font": "Chongxi Seal"
+  },
+  {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "passed": true,
+    "interactions": [
+      "guide",
+      "artwork book",
+      "ledger pages",
+      "cover focus return"
+    ],
+    "font": "Chongxi Seal"
+  }
+]
