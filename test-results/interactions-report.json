@@ -1,0 +1,80 @@
+{
+  "results": [
+    {
+      "name": "Seal and brush 1440",
+      "detail": "Four-glyph two-by-two seal, worn double frame, actual brush mask",
+      "passed": true
+    },
+    {
+      "name": "Book motion 1440",
+      "detail": "Perspective changes over time; rapid turns and cover transitions clean up old paper",
+      "passed": true
+    },
+    {
+      "name": "Scroll motion 1440",
+      "detail": "Mask unfolds progressively; wooden rollers converge and reopen; hidden content remains inert",
+      "passed": true
+    },
+    {
+      "name": "Scene motion 1440",
+      "detail": "Old scene retreats, new scene reveals; repeated changes retain correct state",
+      "passed": true
+    },
+    {
+      "name": "Navigation 1440",
+      "detail": "Ink feedback and progressive native scrolling; wheel interrupts; focus and mobile menu work",
+      "passed": true
+    },
+    {
+      "name": "Dialog motion 1440",
+      "detail": "Paper unfolds on entry and fades on exit; Escape still returns focus",
+      "passed": true
+    },
+    {
+      "name": "Pause 1440",
+      "detail": "Pausing during a scene transition removes snapshots and restores complete content",
+      "passed": true
+    },
+    {
+      "name": "Seal and brush 390",
+      "detail": "Four-glyph two-by-two seal, worn double frame, actual brush mask",
+      "passed": true
+    },
+    {
+      "name": "Book motion 390",
+      "detail": "Perspective changes over time; rapid turns and cover transitions clean up old paper",
+      "passed": true
+    },
+    {
+      "name": "Scroll motion 390",
+      "detail": "Mask unfolds progressively; wooden rollers converge and reopen; hidden content remains inert",
+      "passed": true
+    },
+    {
+      "name": "Scene motion 390",
+      "detail": "Old scene retreats, new scene reveals; repeated changes retain correct state",
+      "passed": true
+    },
+    {
+      "name": "Navigation 390",
+      "detail": "Ink feedback and progressive native scrolling; wheel interrupts; focus and mobile menu work",
+      "passed": true
+    },
+    {
+      "name": "Dialog motion 390",
+      "detail": "Paper unfolds on entry and fades on exit; Escape still returns focus",
+      "passed": true
+    },
+    {
+      "name": "Pause 390",
+      "detail": "Pausing during a scene transition removes snapshots and restores complete content",
+      "passed": true
+    },
+    {
+      "name": "Reduced motion",
+      "detail": "All paper interactions and navigation work without transition snapshots or dialog animations",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

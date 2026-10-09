@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "name": "Refinements 1920",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 1440",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 1366",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 768",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 390",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 375",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Refinements 360",
+      "detail": "Semantic phrases, touch targets, one month row, validation focus/border/stable spacing, empty collection entry",
+      "passed": true
+    },
+    {
+      "name": "Seal pixel density 1",
+      "detail": "Square frame, four glyphs/two columns, neutral alignment and geometric precision",
+      "passed": true
+    },
+    {
+      "name": "Seal pixel density 2",
+      "detail": "Square frame, four glyphs/two columns, neutral alignment and geometric precision",
+      "passed": true
+    },
+    {
+      "name": "Slow image loading",
+      "detail": "Clear loading state and stable picture dimensions before and after loading",
+      "passed": true
+    },
+    {
+      "name": "Visible scrollbar",
+      "detail": "390px layout and saved badge remain inside the usable viewport",
+      "passed": true
+    },
+    {
+      "name": "Image failure/recovery",
+      "detail": "In-place error label, preserved dimensions and online recovery without nested controls",
+      "passed": true
+    },
+    {
+      "name": "Offline feedback",
+      "detail": "Browser offline/reconnection triggers clear status; loaded gallery remains available",
+      "passed": true
+    },
+    {
+      "name": "Storage failure",
+      "detail": "Save failure stays visible, never reports success or wrongly marks valid text",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
